@@ -26,7 +26,19 @@ BENEFITS OF COST CONTROL;
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 1. Waterfall follows a linear and sequential approach where each phase is completed before moving to the next whereas agile uses an iterative and incremental approach where the project is divided into small cycles that deliver working software at each stage.
 2. Waterfall is rigid and less adaptable to changes whereas agile is highly flexible and changes can be made at every phase.
-3. 
+3. In waterfall the product is delivered at the end of the project after all phases are completed whereas in agile the working increments of the product are released at the end of each sprint.
+4. For waterfall, clients provide input mainly at the beginning and the end of the project whereas in agile clients are actively involved throughout the entire process.
+5. There are higher risks in waterfall than in agile since there is continuous testing and feedbackallow early identification and resolutions of problems.
+   ADVANTAGES OF AGILE METHODOLOGY;
+   1. It is flexible as it allows changes and improvements throughout the development cycle.
+   2. It ensures customer collaboration which allows the final product meets user expectations.
+   3. It allows better risk management since problems are identified and resolved early.
+   4. It improves communication between developers, testers and stakeholders hence ensuring higher team engagement.
+   DISADVANTAGES OF AGILE METHODOLOGY;
+   1. Changing requirements can make project scope and timeline unclear.
+   2. It needs strong coordination and decision-making skills for the projects.
+   3. Scaling agile across large teams and complex systems can be challenging.
+      
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
