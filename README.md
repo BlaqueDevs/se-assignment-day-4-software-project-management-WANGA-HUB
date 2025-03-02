@@ -51,14 +51,48 @@ BENEFITS OF COST CONTROL;
    4. Clients have little involvement after the initial planning phases, which may result in a product that does not fully meet their needs.    
       
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-AGILE IS MORE BENEFICIAL FOR;
-1.Have uncertain or eolving reuirements.
-2.Require freqent customer feedback.
-3.Need early and continous deliveries.
-4.Involving cross-functional terms and contribution.
+AGILE IS MORE BENEFICIAL FOR PROJECTS THAT;
+1.Have uncertain or evolving requirements such as games which evolve in their features, graphics and mechanics.
+2.Require frequent customer feedback such as a fintech company developing a new mobile banking app.
+3.Need early and continuous deliveries such as e-commerce websites such as amazon or jumia.
+4.Involves cross-functional terms and contribution.
+WATERFALL IS MORE BENEFICIAL FOR PROJECTS THAT;
+1. Have clearly defined, and stable requirements such as software for medical devices i.e MRI scanners.
+2. Follow strict regulatory or compliance guidelines such as a car manufacturer designing a new vehicle.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+1. Having clearly defined requirements to ensure all functional and non-functional requirements are documented and reviewed.
+2. Use of software development standards such as coding standards and version control.
+3. Automated and manual testing such as unit, integration, system and user acceptance testing.
+4. Code reviews and peer testing.
+5. Performance and security testing such as load and stress testing.
+6. Documentation and knowledge sharing.
+IMPORTANCE OF MAINTAINING HIGH STANDARDS;
+1. It ensures quality and reliability.
+2. It ensures user satisfaction.
+3. It reduces costs in the long run.
+4. It builds reputation and credibility.
+5. It improves security and compliance.
+6. It encourages continuous improvement.
+7. It boosts team productivity and morale.
+    
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+HOW PROJECT SCOPE CONTRIBUTE TO SUCCESSFUL PROJECT PLANNING;
+1. It provides clear objectives and goals by ensuring everyone understands what the project is about and what needs to be achieved.
+2. It prevents scope creep which happens when uncontrolled changes or additions occur leading to delays and increased costs.
+3. It improves resource allocation by estimating the required resources accurately.
+4. It enhances time and cost management which leads to better scheduling and budgeting.
+5. It defines responsibilities and roles hence reducing confusion and overlapping responsibilities.
+   Work Breakdown Structure is a hierarchial decomposition of a project into smaller, manageable components.
+   It is useful in that;
+   1. It improves project organization and clarity by helping teams understand what needs to be done at each stage.
+   2. It enhances task assignment and accountability by clearly defining who is responsible for each task.
+   3. It helps in accurate estimation of time and costs because work is broken down into measurable units.
+   4. It supports effective risk management by analyzing each component separately.
+   5. It prevents scope creep by avoiding unnecessary additions that may delay completion.
+      
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
