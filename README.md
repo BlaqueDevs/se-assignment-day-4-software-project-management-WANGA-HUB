@@ -38,8 +38,24 @@ BENEFITS OF COST CONTROL;
    1. Changing requirements can make project scope and timeline unclear.
    2. It needs strong coordination and decision-making skills for the projects.
    3. Scaling agile across large teams and complex systems can be challenging.
+   4. Less emphasis on documentation may lead to knowledge gaps if team members leave.
+   ADVANTAGES OF WATERFALL;
+   1. Each phase is well-defined making the project management easier.
+   2. Since all requirements are set upfront, cost and deadlines are easier to estimate.
+   3. Its extensive documentation helps maintain clarity and continuity.
+   4. It is ideal for projects where requirements are unlikely to change.
+   DISADVANTAGES OF WATERFALL;
+   1. Any change in requirements after the project starts is difficult and costly.
+   2. Bugs and usability issues are often discovered late, making fixes expensive.
+   3. If a problem arises late in development, the whole project may be delayed or fail.
+   4. Clients have little involvement after the initial planning phases, which may result in a product that does not fully meet their needs.    
       
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+AGILE IS MORE BENEFICIAL FOR;
+1.Have uncertain or eolving reuirements.
+2.Require freqent customer feedback.
+3.Need early and continous deliveries.
+4.Involving cross-functional terms and contribution.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
